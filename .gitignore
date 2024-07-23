@@ -1,0 +1,20 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/eCommerceMM/.vs
+/eCommerceMM/src/Web/MVC/WebMVC/bin/Debug/net8.0
+/eCommerceMM/src/Web/MVC/WebMVC/obj
+/eCommerceMM/src/Services/Pedidos.Infra/obj
+/eCommerceMM/src/Services/Pedidos.Domain/obj
+/eCommerceMM/src/Services/Pedidos.API/obj
+/eCommerceMM/src/Services/Pagamentos.MMPag/obj
+/eCommerceMM/src/Services/Pagamentos.API/obj
+/eCommerceMM/src/Services/Identidade.API/obj
+/eCommerceMM/src/Services/Cliente.API/obj
+/eCommerceMM/src/Services/Catalogo.API/obj
+/eCommerceMM/src/Services/Carrinho.API/obj
+/eCommerceMM/src/Building Blocks/Core/obj
+/eCommerceMM/src/Building Blocks/MessageBus/obj
+/eCommerceMM/src/Building Blocks/WebApi.Core/obj
+/eCommerceMM/src/ApiGateways/Bff.Compras/obj
