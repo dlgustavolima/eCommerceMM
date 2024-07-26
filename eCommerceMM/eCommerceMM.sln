@@ -45,23 +45,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cliente.API", "src\Services
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identidade.API", "src\Services\Identidade.API\Identidade.API.csproj", "{00D8796F-FE85-49DD-834F-861F95A43113}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pagamentos.API", "src\Services\Pagamentos.API\Pagamentos.API.csproj", "{DBA2AB23-80CD-4993-AE04-5AB3C466BB8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pagamentos.API", "src\Services\Pagamentos.API\Pagamentos.API.csproj", "{DBA2AB23-80CD-4993-AE04-5AB3C466BB8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pagamentos.MMPag", "src\Services\Pagamentos.MMPag\Pagamentos.MMPag.csproj", "{C538BF7D-AA2E-4FBA-AD50-CE79B477E852}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pagamentos.MMPag", "src\Services\Pagamentos.MMPag\Pagamentos.MMPag.csproj", "{C538BF7D-AA2E-4FBA-AD50-CE79B477E852}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedidos.API", "src\Services\Pedidos.API\Pedidos.API.csproj", "{D08FC2FB-DD46-4489-B73A-644DABEBDB0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos.API", "src\Services\Pedidos.API\Pedidos.API.csproj", "{D08FC2FB-DD46-4489-B73A-644DABEBDB0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedidos.Domain", "src\Services\Pedidos.Domain\Pedidos.Domain.csproj", "{D17A467D-FA85-4C6E-B01C-19587140F5B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos.Domain", "src\Services\Pedidos.Domain\Pedidos.Domain.csproj", "{D17A467D-FA85-4C6E-B01C-19587140F5B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pedidos.Infra", "src\Services\Pedidos.Infra\Pedidos.Infra.csproj", "{F7DDE7D1-EAEA-48FF-8445-E5415A4F3EB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pedidos.Infra", "src\Services\Pedidos.Infra\Pedidos.Infra.csproj", "{F7DDE7D1-EAEA-48FF-8445-E5415A4F3EB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "src\Building Blocks\Core\Core.csproj", "{0E4454E3-D702-4A73-8D8C-B45370D167C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "src\Building Blocks\Core\Core.csproj", "{0E4454E3-D702-4A73-8D8C-B45370D167C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBus", "src\Building Blocks\MessageBus\MessageBus.csproj", "{785F4378-E2DE-4278-892E-CF9EC127FFD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageBus", "src\Building Blocks\MessageBus\MessageBus.csproj", "{785F4378-E2DE-4278-892E-CF9EC127FFD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi.Core", "src\Building Blocks\WebApi.Core\WebApi.Core.csproj", "{9A2F9ACD-AAD4-4645-9D50-AD8F179CDDA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi.Core", "src\Building Blocks\WebApi.Core\WebApi.Core.csproj", "{9A2F9ACD-AAD4-4645-9D50-AD8F179CDDA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bff.Compras", "src\ApiGateways\Bff.Compras\Bff.Compras.csproj", "{058CC2FD-AE16-4BD2-853E-9748ED0F0853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bff.Compras", "src\ApiGateways\Bff.Compras\Bff.Compras.csproj", "{058CC2FD-AE16-4BD2-853E-9748ED0F0853}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

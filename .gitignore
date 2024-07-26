@@ -18,3 +18,16 @@
 /eCommerceMM/src/Building Blocks/MessageBus/obj
 /eCommerceMM/src/Building Blocks/WebApi.Core/obj
 /eCommerceMM/src/ApiGateways/Bff.Compras/obj
+/eCommerceMM/src/ApiGateways/Bff.Compras/bin/Debug/net8.0
+/eCommerceMM/src/Building Blocks/Core/bin/Debug/net8.0
+/eCommerceMM/src/Building Blocks/MessageBus/bin/Debug/net8.0
+/eCommerceMM/src/Building Blocks/WebApi.Core/bin/Debug/net8.0
+/eCommerceMM/src/Services/Carrinho.API/bin/Debug/net8.0
+/eCommerceMM/src/Services/Catalogo.API/bin/Debug/net8.0
+/eCommerceMM/src/Services/Cliente.API/bin/Debug/net8.0
+/eCommerceMM/src/Services/Identidade.API/bin/Debug/net8.0
+/eCommerceMM/src/Services/Pagamentos.API/bin/Debug/net8.0
+/eCommerceMM/src/Services/Pagamentos.MMPag/bin/Debug/net8.0
+/eCommerceMM/src/Services/Pedidos.API/bin/Debug/net8.0
+/eCommerceMM/src/Services/Pedidos.Domain/bin/Debug/net8.0
+/eCommerceMM/src/Services/Pedidos.Infra/bin/Debug/net8.0
