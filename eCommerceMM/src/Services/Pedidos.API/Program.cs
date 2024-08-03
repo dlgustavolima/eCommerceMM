@@ -7,7 +7,7 @@ using Pedidos.Infra;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<PedidosContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"), options => { options.MigrationsAssembly("Pedidos.API"); }));
 
 builder.Services.AddApiConfiguration(builder.Configuration);
 builder.Services.AddJwtConfiguration(builder.Configuration);
