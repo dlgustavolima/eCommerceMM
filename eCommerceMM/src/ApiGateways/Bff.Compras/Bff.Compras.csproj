@@ -11,18 +11,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="appsettings.Development.json" />
-    <Content Remove="appsettings.Production.json" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.20.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="appsettings.Development.json" />
-    <None Include="appsettings.Production.json" />
   </ItemGroup>
 
   <ItemGroup>
