@@ -130,7 +130,7 @@ public class AutenticacaoService : Service ,IAutenticacaoService
     public bool TokenExpirado()
     {
         var jwt = _user.ObterUserToken();
-        if (jwt is null) return false;
+        if (jwt is null or "") return false;
 
         var token = ObterTokenFormatado(jwt);
         return token.ValidTo.ToLocalTime() < DateTime.Now;
